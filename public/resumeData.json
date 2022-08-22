@@ -1,26 +1,26 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Yao-Cheng Yang",
+    "description":"I am a web development engineer and I use bootstrap and javascript to develop pages. This resume page was built based on a React Template, which is the first step for me to learn the new Frontend Framework 'React'!",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"您好~ 我是國北護資管系大四學生，目前主要以撰寫網頁前後端為主，同時也正在學習醫學資訊標準格式FHIR與HL7，對機器學習與人工智慧也頗有興趣，但仍只是在入門階段。期盼大四的我在學習上能夠克服萬難，並將所學用在將來工作上，學以致用！",
+    "contactmessage":"安安你好~ 歡迎通過以下表單聯繫我(功能尚在建置中OAO...)",
+    "email": "twHenryYang@gmail.com",
+    "phone": "0908-Secret-290",
+    "github":"https://github.com/luckypig3400",
+    "project":"https://github.com/luckypig3400",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"No. 365, Mingde Rd, Beitou District",
+      "city":"Taipei",
+      "state":"Taiwan",
+      "zip": "112"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://luckypig3400.github.io/react-nice-resume/",
+    "resumedownload":"#",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -30,17 +30,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/luckypig3400/react-nice-resume",
         "className":"fa fa-github"
       }
     ]
